@@ -1,0 +1,5 @@
+{
+  "name": "AI BMR Health Analyzer",
+  "description": "A sophisticated tool to calculate Basal Metabolic Rate (BMR) and receive personalized health analysis powered by Gemini AI. Input your physical stats and activity level to get detailed insights into your metabolic health, TDEE, and customized nutrition advice.",
+  "requestFramePermissions": []
+}
